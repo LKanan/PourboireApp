@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.example.pourboire"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.pourboire"
